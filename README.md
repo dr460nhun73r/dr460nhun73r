@@ -26,12 +26,15 @@
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=dr460nhun73r&theme=highcontrast&hide_border=false" />
       </td>
     </tr>
+    <tr>
+      <a href="https://github.com/dr460nhun73r"><img title="dr460nhun73r" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dr460nhun73r&layout=compact&theme=highcontrast"></a>
+    </tr>
   </table>
 </a>
 </p>
 
 
-<a href="https://github.com/dr460nhun73r"><img title="dr460nhun73r" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dr460nhun73r&layout=compact&theme=highcontrast"></a>
+
 
 
 
