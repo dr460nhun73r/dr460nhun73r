@@ -9,7 +9,7 @@
 
 </p>
 
-<br><br>*|| Student || Bug Hunter || Gamer || Hacker||*<br><br>
+<br><br>*|| Student || Bug Hunter || Gamer || Hacker ||*<br><br>
 
 
 
