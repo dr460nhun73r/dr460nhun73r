@@ -27,7 +27,9 @@
       </td>
     </tr>
     <tr>
+      <td>
       <a href="https://github.com/dr460nhun73r"><img title="dr460nhun73r" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dr460nhun73r&layout=compact&theme=highcontrast"></a>
+      </td>
     </tr>
   </table>
 </a>
