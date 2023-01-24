@@ -9,7 +9,7 @@
 
 </p>
 
-<br><br>*|| Student || Bug Hunter || Gamer || Hacker ||*<br><br>
+<br><br>*|| Student || Bug Hunter || Gamer || Hacker ||*<br><br><br>My blog site - <a href="https://dr460nhun73r.blogspot.com/"><img src="https://img.shields.io/badge/Blog-dr460nhun73r.blogspot.com-red">
 
 
 
