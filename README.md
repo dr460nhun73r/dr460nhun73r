@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 </p>
 
-<br><br>*16 Y/O | Student | Bug Hunter | Gamer | Hacker*<br><br>My writeups can be found at - <a href="https://blog.0xrobiul.me"><img src="https://img.shields.io/badge/Blog-blog.0xrobiul.me-red"></a><br>
+<br><br>/*| Student | Bug Hunter | Gamer | Hacker*<br><br>My writeups can be found at - <a href="https://blog.0xrobiul.me"><img src="https://img.shields.io/badge/Blog-blog.0xrobiul.me-red"></a><br>
 
 
 
